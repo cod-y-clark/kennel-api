@@ -15,10 +15,17 @@
             "locationId": 1
         },
         {
-            "id": 2,
-            "name": "Blinko",
-            "breed": "Pomeranian",
+            "id": 3,
+            "name": "Ghidorah",
+            "breed": "Shiba Inu",
             "customerId": 3,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Godzilla",
+            "breed": "Poodle",
+            "customerId": 4,
             "locationId": 2
         }
     ],
@@ -37,9 +44,40 @@
             "id": 3,
             "name": "Barbara Streisand",
             "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 4,
+            "name": "Kate Bush",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 5,
+            "name": "Brian Eno",
+            "address": "7002 Chestnut Ct"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Jason Todd",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Brian Jones",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Genesis P.Orridge",
+            "locationId": 2
+        }
+    ],    
     "locations": [
         {
             "id": 1,
